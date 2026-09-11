@@ -1,0 +1,17 @@
+*.exe
+*.out
+*.o
+*.obj
+.vscode/
+.idea/
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.tmp
+*.log
+
+users.txt
+bookings.txt
+Services.txt
+rates.txt
